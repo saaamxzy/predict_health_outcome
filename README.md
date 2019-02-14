@@ -17,15 +17,18 @@ Demographic and SES features are:
 
 ['demo_pcblack', 'demo_pcfemale', 'demo_pchisp', 'demo_pcwht', 'demo_under18', 'demo_65over', 'largemetro', 'mediummetro', 'metrononmetro', 'micro', 'nchs_2013', 'ses_edu_coll', 'ses_foodenvt', 'ses_incomeratio', 'ses_log_hhinc', 'ses_pcaccess', 'ses_pcexerciss', 'ses_pchousing', 'ses_pcrural', 'ses_pcunemp', 'smallmetro']
 
+-----------------------------------------------------------------------
 
 LDA topic frequencies:
 These columns contain frequency of the topic in that county. First row contains the topic ID, and each topic can be better understood by looking at the top 20 frequent words of that topic in the topics.csv file. 
 
+-----------------------------------------------------------------------
 
 Health Outcomes  are:
 
 ['health_aamort', 'health_fairpoor', 'health_mentunh', 'health_pcdiab', 'health_pcexcdrin', 'health_pcinact', 'health_pcsmoker', 'health_physunh', 'heath_pcobese']
 
+-----------------------------------------------------------------------
 
 training_data.mat
 
