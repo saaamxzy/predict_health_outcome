@@ -1,4 +1,4 @@
-# predict_health_outcome
+# Predicting Health Behaviors and Outcomes for U.S. Counties Using Demographic, SES and LDA topics
 Models used to predict American Health outcomes written in Matlab. 
 
 Please find a complete report on the models implemented [here](Predicting_Health_Behaviors_and_Outcomes_for_U_S__Counties.pdf).
