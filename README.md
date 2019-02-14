@@ -1,5 +1,7 @@
 # predict_health_outcome
-Models used to predict American Health outcomes written in Matlab.
+Models used to predict American Health outcomes written in Matlab. 
+
+Please find a complete report on the models implemented [here]().
 
 ## Feature files
 training_data.csv
